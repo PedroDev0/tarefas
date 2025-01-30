@@ -5,10 +5,8 @@ Este projeto é um temporizador para gerenciar o tempo de suas tarefas. Defina o
 ## Como Rodar o Projeto
 
 1. Instale as dependências:
-
+2. Inicie o servidor de desenvolvimento:
 ```bash
 npm install
 
-2. Inicie o servidor de desenvolvimento:
-```bash
 npm run dev
