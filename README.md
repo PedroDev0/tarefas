@@ -1,7 +1,10 @@
 # Timer de Tarefas
 
 Este projeto é um temporizador para gerenciar o tempo de suas tarefas. Defina o tempo para cada tarefa (ex: "React - 1 horas") e o temporizador irá decair até o tempo se esgotar, marcando a tarefa como finalizada.
-![Apresentacao do projeto](src/assets/apresentacao.mp4)
+<video width="100%" controls>
+  <source src="src/assets/apresentacao.mp4" type="video/mp4">
+
+</video>
 
 ## Deploy 
 [Tarefas](https://tarefas-dusky.vercel.app/)
