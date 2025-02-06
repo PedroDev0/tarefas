@@ -10,3 +10,6 @@ Este projeto é um temporizador para gerenciar o tempo de suas tarefas. Defina o
 npm install
 
 npm run dev
+
+## Deploy 
+[Projeto em produção] (https://tarefas-dusky.vercel.app/)
